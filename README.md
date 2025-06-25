@@ -7,7 +7,7 @@
 
 ### 🧠 About Me  
 - 🎓 I'm Meruyert Bauyrzhanqyzy
-- 💻 Studying at **Alem School**, dreaming of becoming a **Golang Developer**
+- 💻 Dreaming of becoming a **Golang Developer**
 - ⚙️ I’m currently working on backend projects (Go + Redis + WebSockets... yeah, nerdy and proud 😎)
 - 🛠️ Currently learning: **Concurrency, Goroutines, and Testing**
 - 🌈 Fun fact: I believe in cute code & well-written tests 💖
