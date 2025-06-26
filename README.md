@@ -8,8 +8,7 @@
 ### 🧠 About Me  
 - 🎓 I'm Meruyert Bauyrzhanqyzy
 - 💻 Dreaming of becoming a **Golang Developer**
-- ⚙️ I’m currently working on backend projects (Go + Redis + WebSockets... yeah, nerdy and proud 😎)
-- 🛠️ Currently learning: **Concurrency, Goroutines, and Testing**
+- ⚙️ I’m currently working on backend projects
 - 🌈 Fun fact: I believe in cute code & well-written tests 💖
 - 📍 Based in Kazakhstan 🇰🇿
 
