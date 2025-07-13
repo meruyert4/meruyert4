@@ -6,10 +6,9 @@
 ---
 
 ### 🧠 About Me  
-- 🎓 I'm Meruyert Bauyrzhanqyzy
+- 🎓 I'm Meruyert Boranbay
 - 💻 Dreaming of becoming a **Golang Developer**
 - ⚙️ I’m currently working on backend projects
-- 🌈 Fun fact: I believe in cute code & well-written tests 💖
 - 📍 Based in Kazakhstan 🇰🇿
 
 ---
