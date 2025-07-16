@@ -7,7 +7,6 @@
 
 ### About Me  
 - I'm Meruyert Boranbay
-- Dreaming of becoming a Golang Developer
 - I’m currently working on backend projects
 - Based in Kazakhstan 🇰🇿
 
