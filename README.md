@@ -5,17 +5,17 @@
 
 ---
 
-### 🧠 About Me  
-- 🎓 I'm Meruyert Boranbay
-- 💻 Dreaming of becoming a **Golang Developer**
-- ⚙️ I’m currently working on backend projects
-- 📍 Based in Kazakhstan 🇰🇿
+### About Me  
+- I'm Meruyert Boranbay
+- Dreaming of becoming a Golang Developer
+- I’m currently working on backend projects
+- Based in Kazakhstan 🇰🇿
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 👩‍💻 Languages
+#### Languages
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
@@ -39,7 +39,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![NGROK](https://img.shields.io/badge/-NGROK-1F1F1F?style=for-the-badge\&logo=ngrok\&logoColor=white)
 
 #### 🧪 Testing & Monitoring
 
@@ -51,7 +50,6 @@
 
 ### 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=meruyert4&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zhannurr&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhannurr&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
