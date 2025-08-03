@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Meruyert 👩🏻‍💻</h1>
+<h1 align="center">Hi 👋, I'm Meruyert 👩🏻‍💻</h1>
 
 <p align="center">
   <em>Backend Developer | Go & TypeScript | Astana, Kazakhstan 🇰🇿</em><br>
