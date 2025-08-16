@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Meruyert 👩🏻‍💻</h1>
 
-<p align="center">
-  <em>Backend Developer | Astana, Kazakhstan 🇰🇿</em><br>
-  <em>Building scalable systems, learning fast, and shipping with purpose.</em>
+<p align="left">
+  Backend Developer | Astana, Kazakhstan 🇰🇿<br>
+  Building scalable systems, learning fast, and shipping with purpose.
 </p>
 
 ---
