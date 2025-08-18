@@ -39,7 +39,8 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meruyert4&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meruyert4&theme=midnight-purple&layout=compact&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meruyert4&theme=midnight-purple&layout=compact&hide_border=false" alt="Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meruyert4&theme=midnight-purple&layout=compact&hide_border=false" alt="meruyert4"/><
 </p>
 
 ---
