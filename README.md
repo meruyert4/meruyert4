@@ -34,7 +34,6 @@
 ![Playwright](https://img.shields.io/badge/Playwright-9D00FF?style=for-the-badge&logo=playwright&logoColor=white)
 
 ---
-
 ### GitHub Stats
 
 <p align="center">
