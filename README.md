@@ -17,7 +17,7 @@
 
 ### Tech Stack  
 
-![Go](https://img.shields.io/badge/Go-9D00FF?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-a970ff?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-9D00FF?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-9D00FF?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-9D00FF?style=for-the-badge&logo=react&logoColor=white)
@@ -41,7 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meruyert4&theme=midnight-purple&layout=compact&hide_border=false" alt="Top Languages"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=meruyert4&theme=midnight-purple&layout=compact&hide_border=false" alt="meruyert4"/><
 </p>
-
 ---
 
 <p align="left"><i>Thanks for visiting my profile! Happy coding 💻✨</i></p>
