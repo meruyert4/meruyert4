@@ -6,7 +6,6 @@
 </p>
 
 ---
-
 ### About Me
 
 - Backend-focused, with some full-stack experience  
