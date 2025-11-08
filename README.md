@@ -41,4 +41,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=meruyert4&theme=midnight-purple&layout=compact&hide_border=false" alt="meruyert4"/>
 </p>
 ---
+
 <p align="left"><i>Thanks for visiting my profile! Happy coding 💻✨</i></p>
